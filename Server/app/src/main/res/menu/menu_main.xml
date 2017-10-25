@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="Server Test"
+	      android:id="@+id/mnu_server_test"/>
+	<item android:title="ClientTest"
+	      android:id="@+id/mnu_client_test"/>
+</menu>

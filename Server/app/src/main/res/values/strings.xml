@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">BLE_API</string>
+
+	<string-array name="app_modes">
+		<item>Server</item>
+		<item>Client</item>
+		<item>Stop</item>
+	</string-array>
+	<integer name="app_mode_server">0</integer>
+	<integer name="app_mode_client">1</integer>
+	<integer name="app_mode_stop">2</integer>
+</resources>
